@@ -112,11 +112,20 @@ I enjoy discovering new things and believe that embracing the process is just as
 
 ###
 
-<p align="left">INSERTAR PRESENTACIÓN</p>
+# Hi 👋 My name is Jesús 
+**Computer Science Engineer | AI & ML Enthusiast**
 
+I’m a Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, and Intelligent Agents. These fields have fascinated me throughout my studies and continue to inspire my learning journey.
+
+I enjoy discovering new things and believe that embracing the process is just as important as reaching the goal. Exploring innovative technologies and solving complex problems motivates me every day.
+
+- 🌍 Based in Huelva, Andalusia, Spain  
+- ✉️ Contact me at jesusdavid.calvente083@alu.uhu.es or jesus.calvente.zapata.24@gmail.com 
+- 🤝 Open to collaborating on interesting projects  
+- ⚡ Passionate about learning through MOOCs and self-study
 ###
 
-<p align="left">LANGUAGE AND TOOLS</p>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -140,18 +149,26 @@ I enjoy discovering new things and believe that embracing the process is just as
 
 ###
 
-<p align="left">MY STATS</p>
+###
+
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcalvente083&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcalvente083&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jcalvente083&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<p align="left">SOCIAL MEDIA</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jcalvente083&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcalvente083&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">🔥   Social Media :</h3>
 
 ###
 
