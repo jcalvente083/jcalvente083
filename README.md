@@ -50,7 +50,7 @@ I enjoy discovering new things and believe that embracing the process is just as
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/SWI_Prolog_logo.png" height="40" alt="swi-prolog logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" height="40" alt="prolog logo" />
 </div>
 
 
