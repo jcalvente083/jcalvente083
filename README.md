@@ -12,3 +12,5 @@ I enjoy discovering new things and believe that embracing the process is just as
 
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcalvente083&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcalvente083&layout=compact&theme=radical)
+
