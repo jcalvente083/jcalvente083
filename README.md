@@ -114,6 +114,8 @@ I enjoy discovering new things and believe that embracing the process is just as
 
 ###
 
+###
+
 # Hi 👋 My name is Jesús 
 **Computer Science Engineer | AI & ML Enthusiast**
 
@@ -128,7 +130,7 @@ I enjoy discovering new things and believe that embracing the process is just as
 
 ###
 
-
+###
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -153,6 +155,8 @@ I enjoy discovering new things and believe that embracing the process is just as
 
 ###
 
+###
+
 
 ###
 
@@ -171,7 +175,7 @@ I enjoy discovering new things and believe that embracing the process is just as
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcalvente083&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+###
 ###
 
 <h3 align="left">🔥   Social Media :</h3>
