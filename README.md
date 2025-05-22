@@ -79,10 +79,6 @@ I enjoy discovering new things and believe that embracing the process is just as
 </div>
 
 ###
-### 
- 
-
-<h3 align="left">📱   Social Media :</h3>
 
 ###
 
@@ -91,6 +87,10 @@ I enjoy discovering new things and believe that embracing the process is just as
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcalvente083/jcalvente083/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jcalvente083/jcalvente083/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<h3 align="left">📱   Social Media :</h3>
 
 ###
 
