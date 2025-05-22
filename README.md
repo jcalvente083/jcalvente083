@@ -82,7 +82,7 @@ I enjoy discovering new things and believe that embracing the process is just as
 ### 
  
 
-<h3 align="left">🔥   Social Media :</h3>
+<h3 align="left">📱   Social Media :</h3>
 
 ###
 
