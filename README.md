@@ -115,7 +115,7 @@ I enjoy discovering new things and believe that embracing the process is just as
 
 <div align="center">
   <a href="https://open.spotify.com/user/jesus1524.calvente.zapata">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jesus1524.calvente.zapata&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jesus1524calventezapata&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
