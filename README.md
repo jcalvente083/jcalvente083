@@ -112,7 +112,7 @@ I enjoy discovering new things and believe that embracing the process is just as
 
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jesus1524.calvente.zapata&count={5})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jesus1524.calvente.zapata&count=5)
 
 ###
 
