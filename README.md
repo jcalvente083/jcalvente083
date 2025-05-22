@@ -110,10 +110,29 @@ I enjoy discovering new things and believe that embracing the process is just as
   </a>
 </div>
 
+
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jcalvente083/jcalvente083/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcalvente083/jcalvente083/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcalvente083/jcalvente083/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jcalvente083/jcalvente083/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/jesus1524.calvente.zapata">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jesus1524.calvente.zapata&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jesusd1524&theme=dark" alt="Layout with last medium posts"  />
+</div>
 
 ###
