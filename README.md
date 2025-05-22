@@ -9,3 +9,6 @@ I enjoy discovering new things and believe that embracing the process is just as
 - ✉️ Contact me at jesusdavid.calvente083@alu.uhu.es or jesus.calvente.zapata.24@gmail.com 
 - 🤝 Open to collaborating on interesting projects  
 - ⚡ Passionate about learning through MOOCs and self-study
+
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcalvente083&show_icons=true&theme=dark)
