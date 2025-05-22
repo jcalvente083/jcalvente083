@@ -64,7 +64,7 @@ I enjoy discovering new things and believe that embracing the process is just as
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats </h3>
 
 ###
 
@@ -80,7 +80,8 @@ I enjoy discovering new things and believe that embracing the process is just as
 </div>
 
 ###
-###
+### 
+ 
 
 <h3 align="left">🔥   Social Media :</h3>
 
