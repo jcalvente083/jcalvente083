@@ -86,6 +86,14 @@ I enjoy discovering new things and believe that embracing the process is just as
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcalvente083/jcalvente083/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcalvente083/jcalvente083/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jcalvente083/jcalvente083/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="left">
   <a href="´https://www.youtube.com/@JeSuSd1524-j9o" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
@@ -112,16 +120,13 @@ I enjoy discovering new things and believe that embracing the process is just as
 
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jesus1524calventezapata&count=5)
+
+<!---![SPOTIFY](https://spotify-recently-played-readme.vercel.app/api?user=jesus1524calventezapata&count=5)-->
 
 ###
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcalvente083/jcalvente083/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcalvente083/jcalvente083/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jcalvente083/jcalvente083/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
