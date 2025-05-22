@@ -18,4 +18,4 @@ I enjoy discovering new things and believe that embracing the process is just as
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcalvente083&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcalvente083&layout=compact&theme=dark)  
-![trophy](https://github-profile-trophy.vercel.app/?username=jcalvente083&theme=dark)
+<!--![trophy](https://github-profile-trophy.vercel.app/?username=jcalvente083&theme=dark)-->
