@@ -125,7 +125,9 @@ I enjoy discovering new things and believe that embracing the process is just as
 - ✉️ Contact me at jesusdavid.calvente083@alu.uhu.es or jesus.calvente.zapata.24@gmail.com 
 - 🤝 Open to collaborating on interesting projects  
 - ⚡ Passionate about learning through MOOCs and self-study
+
 ###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -151,6 +153,7 @@ I enjoy discovering new things and believe that embracing the process is just as
 
 ###
 
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -167,6 +170,7 @@ I enjoy discovering new things and believe that embracing the process is just as
   <img src="https://github-readme-stats.vercel.app/api?username=jcalvente083&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcalvente083&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 
 ###
 
