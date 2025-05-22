@@ -116,9 +116,7 @@ I enjoy discovering new things and believe that embracing the process is just as
   <a href="https://www.linkedin.com/in/jesús-david-calvente-zapata-0a914a242" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/jesús-david-calvente-zapata-0a914a242" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  
 </div>
 
 
