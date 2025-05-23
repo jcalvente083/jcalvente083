@@ -124,6 +124,9 @@ I enjoy discovering new things and believe that embracing the process is just as
 ###
 
 <!---![SPOTIFY](https://spotify-recently-played-readme.vercel.app/api?user=jesus1524calventezapata&count=5)-->
+### 🎧 Last songs
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=jesus1524calventezapata&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/jesus1524calventezapata)
 
 ###
 
