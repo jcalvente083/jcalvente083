@@ -1,4 +1,5 @@
-----
+###
+--------------------------------------------------
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -17,8 +18,6 @@
 </div>
 
 ### 
- 
-### 
 
 # Hi 👋 My name is Jesús 
 **Computer Science Engineer | AI & ML Enthusiast**
@@ -34,7 +33,6 @@ I enjoy discovering new things and believe that embracing the process is just as
 
 ###
 
-###
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -59,11 +57,6 @@ I enjoy discovering new things and believe that embracing the process is just as
 
 ###
 
-###
-
-
-###
-
 <h3 align="left">🔥   My Stats </h3>
 
 ###
@@ -79,7 +72,6 @@ I enjoy discovering new things and believe that embracing the process is just as
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcalvente083&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
 ###
 
@@ -123,15 +115,4 @@ I enjoy discovering new things and believe that embracing the process is just as
 
 ###
 
-<!---![SPOTIFY](https://spotify-recently-played-readme.vercel.app/api?user=jesus1524calventezapata&count=5)-->
-### 🎧 Last songs
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=jesus1524.calvente.zapata&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/jesus1524.calvente.zapata)
-
-###
-
-<br clear="both">
-
-
-
-###
+--------------------------------------------------------------------------------------------------
