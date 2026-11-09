@@ -9,15 +9,21 @@
 <br clear="both">
 
 <div align="center">
+  <!-- Badge de LinkedIn -->
   <a href="https://www.linkedin.com/in/jcalvente083" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="" alt="linkedin logo"  />
-  <div align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jcalvente083.jcalvente083&"  />
-  
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" alt="linkedin logo" />
+  </a>
+  &nbsp;
+  <!-- Badge del Portafolio -->
+  <a href="https://www.jcalvente083.qzz.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-2ea44f?style=flat&logo=googlechrome&logoColor=white" alt="portfolio logo" />
+  </a>
+  &nbsp;
+  <!-- Badge de Visitantes -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jcalvente083.jcalvente083&" alt="visitors badge" />
 </div>
 
-### 
+###
 
 # Hi 👋 My name is Jesús 
 **Computer Science Engineer | AI & ML Enthusiast**
