@@ -12,10 +12,7 @@
   <a href="https://www.linkedin.com/in/jcalvente083" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="" alt="linkedin logo"  />
   <div align="center">
-  <a href="https://www.jcalvente083.qzz.io" target="_blank">
-   <img alt="Static Badge" src="https://img.shields.io/badge/Portafolio"> alt="portafolio logo"  />
-    <img width="6" />
-    </a>
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=jcalvente083.jcalvente083&"  />
   
 </div>
