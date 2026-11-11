@@ -120,7 +120,7 @@ I'm a final-year Computer Science Engineering student (Computing specialization)
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jesús-david-calvente-zapata-0a914a242" target="_blank">
+  <a href="https://www.linkedin.com/in/jcalvente083" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:jesus.calvente.zapata.24@gmail.com" target="_blank">
