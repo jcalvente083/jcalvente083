@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <strong>🌐 English</strong> &nbsp;|&nbsp; <a href="README.es.md">Español</a>
+  <strong>🌐 🇬🇧 </strong> &nbsp;|&nbsp; <a href="README.es.md">🇪🇸</a>
 </div>
 
 <br clear="both">
